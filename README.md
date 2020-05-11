@@ -1,9 +1,10 @@
 # CPPND: Capstone Cube Defender
 
-This is a cube defender game created as a C++ capstone project for udacity.
+This is a cube defender game created as a C++ capstone project for Udacity.
+
 <img src="cube.gif"/>
 
-##Game Description
+## Game Description
 In this game, you play as a *cube defender* that is on the bottom of the screen. The cubes are changing color as they fall down and they are also accelerating as time goes on.
 You can decelerate them by shooting them down. The goal is to shoot down as many cubes as possible,
 before one of them reaches the bottom screen(**defender platform**). For comparison the current result is being captured on the window title.
